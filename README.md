@@ -8,8 +8,7 @@ Author: Tek Jones
 
 Demo REST API with full CRUD
 
-Deployed Links:
-  In Progress
+Heroku Deployed Links: https://tekjones-basic-api-server.herokuapp.com/
 
 ## UML
 
