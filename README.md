@@ -80,7 +80,7 @@ Heroku Deployed Links: https://tekjones-basic-api-server.herokuapp.com/
     - name: STRING
     - year: NUMBER
 
-### /dogs/:dogsId
+### /songs/:songId
 
 #### GET
 
